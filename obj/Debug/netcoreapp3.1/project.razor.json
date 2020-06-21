@@ -1,5 +1,5 @@
 {
-  "FilePath": "/home/willian/Projetos/Csharp/ContosoUniversity/ContosoUniversity.csproj",
+  "FilePath": "/home/willian/Projetos/Csharp/ContosoUniveristy/ContosoUniversity.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,38 +20521,63 @@
   "RootNamespace": "ContosoUniversity",
   "Documents": [
     {
-      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniversity/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniveristy/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniveristy/Pages/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniversity/Pages/Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
+      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniveristy/Pages/Students/Details.cshtml",
+      "TargetPath": "Pages\\Students\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniversity/Pages/Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniversity/Pages/_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniversity/Pages/_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniversity/Pages/Privacy.cshtml",
+      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniveristy/Pages/Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniversity/Pages/Shared/_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniveristy/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniveristy/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniveristy/Pages/Students/Index.cshtml",
+      "TargetPath": "Pages\\Students\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniveristy/Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniveristy/Pages/Students/Create.cshtml",
+      "TargetPath": "Pages\\Students\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniveristy/Pages/Students/Delete.cshtml",
+      "TargetPath": "Pages\\Students\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniveristy/Pages/_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/willian/Projetos/Csharp/ContosoUniveristy/Pages/Students/Edit.cshtml",
+      "TargetPath": "Pages\\Students\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],
